@@ -1,4 +1,13 @@
-## Hi there 👋
+Hello, I am Frank Markett
+Student @University of Illinois Chicago
+Studying Computer Science with a mathmatics minor,
+enthusiastic about ML and Neural Network development.
+
+I am a 19 year old student currently working on expanding my knowledge in the field of machine learning. 
+I'm currently enrolled in Mike X Cohen's deep learning course, and have finished Andrew Ng's machine learning course.
+I'm looking to create a CNN which can spot medical issues in echocardiogram's.
+You can reach me on LinkedIn, or through my email.
+
 
 <!--
 **FMarkett11/FMarkett11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
